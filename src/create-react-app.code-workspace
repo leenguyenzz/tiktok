@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../todolist"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "create-react-app"
+  }
+}

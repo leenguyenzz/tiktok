@@ -1,0 +1,20 @@
+.btn {
+  color: red;
+}
+.btn-bt {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+#content {
+  position: relative;
+}
+
+#flex {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+span {
+  padding: 0 20px;
+}
